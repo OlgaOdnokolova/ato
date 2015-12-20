@@ -1,0 +1,131 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-fb {
+    width: 7px;
+    height: 14px;
+    background-position: -10px -10px;
+}
+
+.sprite-icon-fb-color {
+    width: 6px;
+    height: 12px;
+    background-position: -10px -44px;
+}
+
+.sprite-icon-google-plus {
+    width: 16px;
+    height: 14px;
+    background-position: -10px -76px;
+}
+
+.sprite-icon-menu {
+    width: 14px;
+    height: 10px;
+    background-position: -10px -110px;
+}
+
+.sprite-icon-next {
+    width: 12px;
+    height: 20px;
+    background-position: -10px -140px;
+}
+
+.sprite-icon-photos {
+    width: 14px;
+    height: 12px;
+    background-position: -10px -180px;
+}
+
+.sprite-icon-pocket-color {
+    width: 14px;
+    height: 13px;
+    background-position: -10px -212px;
+}
+
+.sprite-icon-prev {
+    width: 11px;
+    height: 19px;
+    background-position: -10px -245px;
+}
+
+.sprite-icon-search {
+    width: 16px;
+    height: 16px;
+    background-position: -10px -284px;
+}
+
+.sprite-icon-stat-comment {
+    width: 10px;
+    height: 9px;
+    background-position: -10px -320px;
+}
+
+.sprite-icon-stat-comment2 {
+    width: 10px;
+    height: 9px;
+    background-position: -10px -349px;
+}
+
+.sprite-icon-stat-watch {
+    width: 11px;
+    height: 9px;
+    background-position: -10px -378px;
+}
+
+.sprite-icon-stat-watch2 {
+    width: 11px;
+    height: 9px;
+    background-position: -10px -407px;
+}
+
+.sprite-icon-tw {
+    width: 15px;
+    height: 12px;
+    background-position: -10px -436px;
+}
+
+.sprite-icon-tw-color {
+    width: 13px;
+    height: 11px;
+    background-position: -10px -468px;
+}
+
+.sprite-icon-videos {
+    width: 15px;
+    height: 10px;
+    background-position: -10px -499px;
+}
+
+.sprite-icon-vk {
+    width: 17px;
+    height: 10px;
+    background-position: -10px -529px;
+}
+
+.sprite-icon-vk-color {
+    width: 15px;
+    height: 10px;
+    background-position: -10px -559px;
+}
+
+.sprite-icon-youtube {
+    width: 15px;
+    height: 11px;
+    background-position: -10px -589px;
+}
+
+.sprite-logo-it-develop {
+    width: 75px;
+    height: 16px;
+    background-position: -10px -620px;
+}
+
+.sprite-small-vertical-line {
+    width: 1px;
+    height: 18px;
+    background-position: -10px -656px;
+}
